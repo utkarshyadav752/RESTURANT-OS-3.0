@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix RestaurantOS — AI Operating System \u0026 POS",
+  "description": "Production-grade multi-tenant restaurant operating system featuring intelligent POS, KOT, table management, recipe BOM inventory ledger, waste-to-profit analytics, demand forecasting, and real-time AI copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
